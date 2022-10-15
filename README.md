@@ -1,50 +1,20 @@
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="mkt_logo_other_png.svg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Fusiom/mawkit-place/">
+    <img src="mkt_logo_other_png.png" alt="Logo" width="160" height="160">
   </a>
-<h3 align="center">project_title</h3>
+<h2 align="center">Mawkit</h3>
   <p align="center">
-    project_description
+    A <b>central marketplace</b> for the purchase/selling of <b>Minecraft</b> accounts on the highly populated server <b>Hypixel</b>.
     <br />
     <br />
-    <a href="https://github.com/Fusiom/mawkit-place/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Fusiom/mawkit-place"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Fusiom/mawkit-place/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Fusiom/mawkit-place/issues">Request Feature</a>
   </p>
 </div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
