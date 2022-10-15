@@ -36,13 +36,15 @@ If you need the instructions to adding this to your server, then follow these st
 ## Commands »
 
 <b>/list</b> - Lists the current accounts being sold. You can sort by BedWars stats (/list bw), SkyWars stats (/list sw), and even SkyBlock Stats (/list sb) to find the perfect account for you. If you don't know what account you want, just type /list recommended, or just /list.<br/>
-<b>/sell</b> - Start to sell an account you own. You don't need to type anything after the command.<br/>
+<b>/sell</b> - Sell an account you own*. You don't need to type anything after the command.<br/>
 <b>/auction</b> - Lists the accounts that are currently on *auction*, no BIN. To auction an account, use the former command "/sell."<br/>
 <b>/check</b> - Check the market value of your account and it's stats. This feature is implemented straight into the /sell command, but you can check the value seperately using this command.<br/>
 <b>/report</b> - Reports the specified user. This command is much easier to use if you're in the main discord, as you can send our mods the evidence for your accusation.<br/>
 <b>/bugreport</b> - Reports a bug you found with the bot. This command is also much easier to use if you're in the main discord, as you can send our mods the evidence to back your report. (Reminder, if you can't recreate the bug, it isn't a bug.)<br/>
 <b>/discord</b> - Sends you an invite to the main Mawkit-Place Discord.<br/>
 <b>/user</b> - Searches the specified user's history. Shows you their account transaction history with the bot, and also general info about their discord account.
+
+**You need to require proof of ownership before the account gets listed. A 
 
 ## Contributing »
 
