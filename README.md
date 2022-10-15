@@ -3,7 +3,7 @@
   <a href="https://github.com/Fusiom/mawkit-place/">
     <img src="mkt_logo_other_png.png" alt="Logo" width="160" height="160">
   </a>
-<h2 align="center">Mawkit</h3>
+<h1 align="center">Mawkit</h3>
   <p align="center">
     A <b>central marketplace</b> for the purchase/selling of <b>Minecraft</b> accounts on the highly populated server <b>Hypixel</b>.
     <br />
@@ -22,49 +22,22 @@
 This project was started by <b>Fusion</b> and <b>NoKil</b>. It's entirely based on convenience for the user, and shouldn't be a hassle to use. If you do end up having issues, type the command "/discord" and join the Mawkit-Place Central.<br />
 The project's use is to create an <b>easy-to-use</b> and <b>comfortable</b> hub for the buying and selling of Minecraft accounts. Scammers are less likely, you can sell your account with ease, and you don't ever need to talk to the person selling the account if you prefer. If you would like to suggest a feature, then go <a href="https://github.com/Fusiom/mawkit-place/issues">here.</a>
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Getting Started »
 If you need the instructions to adding this to your server, then follow these steps;
 
-### Instructions
+### Instructions 
 
-1. ```Go to the website https://domain.com ```
-2. Find the "Invite" button in the top left
-3. Click on it and add it to the server of your choice.
+1. ```Go to the website``` https://domain.com
 
+2. ```Find the "Invite" button in the top left```
 
+3. ```Click on it and add it to the server of your choice.```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Commands »
 
+Commands will be here. 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
+## Contributing »
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -72,46 +45,12 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b feature/feature`)
+3. Commit your Changes (`git commit -m 'Add some feature'`)
+4. Push to the Branch (`git push origin feature/feature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
+ 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
