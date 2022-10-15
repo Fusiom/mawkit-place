@@ -35,7 +35,10 @@ If you need the instructions to adding this to your server, then follow these st
 
 ## Commands »
 
-Commands will be here. 
+<b>/list</b> - Lists the current accounts being sold. You can sort by Bedwars Stats (/list bw), Skywars Stats (/list sw), and even Skyblock Stats (/list sb) to find the perfect account for you. If you don't know what account you want, just type /list recommended, or just /list.<br/>
+<b>/sell</b> - Start to sell an account you own. You don't need to type anything after the command.<br/>
+<b>/check</b> - Check the market value of your account and it's stats. This feature is implemented straight into the /sell command, but you can check the value seperately using this command.
+<b>/report</b> - Reports the specified user. This command is much easier to use if you're in the main discord, as you can send our mods the evidence for your accusation.
 
 ## Contributing »
 
