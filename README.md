@@ -44,7 +44,7 @@ If you need the instructions to adding this to your server, then follow these st
 <b>/discord</b> - Sends you an invite to the main Mawkit-Place Discord.<br/>
 <b>/user</b> - Searches the specified user's history. Shows you their account transaction history with the bot, and also general info about their discord account.
 
-**You need to require proof of ownership before the account gets listed.**<br/>(Instructions to provide proof will be shown when selling an account.)
+***You need to require proof of ownership before the account gets listed.**<br/>(Instructions to provide proof will be shown when selling an account.)
 
 ## Contributing »
 
